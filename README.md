@@ -1,4 +1,1 @@
-KnightTD is a top-down 2D game project focused on building a clean and modular gameplay architecture. 
-The current build includes smooth 8-directional player movement, collision handling, and core state management systems. 
-The project is being developed mechanics-first, with combat, enemy AI, animations, and UI systems planned for future updates. 
-This game serves as a technical sandbox to strengthen gameplay programming and system design skills.
+KnightTD is a top-down 2D game project focused on building a clean and modular gameplay architecture. The current build includes smooth 8-directional player movement, collision handling, and core state management systems. The project is being developed mechanics-first, with combat, enemy AI, animations, and UI systems planned for future updates. This game serves as a technical sandbox to strengthen gameplay programming and system design skills.
